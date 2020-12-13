@@ -1,3 +1,5 @@
+[logo]: https://github.com/r00t3r-god/r00t3r-god.github.io/blob/main/avatar.jpg
+
 # Home Of r00t3r's Cyber Security & Machine Learning Adventures
 -------------------------------------------------------------------
 
