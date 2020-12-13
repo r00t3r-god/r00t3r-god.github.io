@@ -13,9 +13,14 @@ I am a student. I love the art of learning, reading thick books, writing article
 ***I am a proud INDIAN.***
 
 > BEING A BEGINNER AND STAYING A BEGINNER ARE TWO DIFFERENT THINGS - ME (-;-)
-----
+
+
+---
 ## *POSTS*:
 [Solving Your First CrackME Using Ghidra](https://r00t3r-god.github.io/pages/solving-my-first-crackme-using-ghidra) - 13/12/2020
+
+
+---
 ### CONTACT :
 em@il-id : r00t3r.godmode@gmail.com
 telegram-id : telegram.me/sarcasticnerd
