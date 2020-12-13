@@ -5,4 +5,4 @@
 
 ##### Hello explorer! Welcome to r00t3r's blog. This is the page that indices all the posts that I've written in a categorized manner. Navigate through the pages to read about the topics you like.
 
-[Solving My First CrackME Using Ghidra](https://github.com/r00t3r-god/r00t3r-god.github.io/blob/main/pages/solving-my-first-crackme-using-ghidra.md)
+[Solving My First CrackME Using Ghidra](https://r00t3r-god.github.io/pages/solving-my-first-crackme-using-ghidra)
